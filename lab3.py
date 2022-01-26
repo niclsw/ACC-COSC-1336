@@ -1,5 +1,4 @@
 # -----------------------------------------------------------------------
-# Nicklaus Walker
 # Which lab this is – Lab 3
 # This program takes the users first name, month born, and year born and
 # checks if the user entered a valid input and decides if the user was

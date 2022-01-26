@@ -1,5 +1,4 @@
 # -----------------------------------------------------------------------
-# Nicklaus Walker
 # Which lab this is – Lab 4
 # This program loads contactsLab4.txt and separates it's values into 2
 # lists. It then determines the age and if the contact was born during

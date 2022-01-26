@@ -1,4 +1,6 @@
-import lab5_class_Walker
+import lab5_class
+
+### Note: I have no idea if this one works. I know I had multiple Lab5 programs with slightly different solutions
 
 
 #########################################
@@ -23,7 +25,7 @@ def main():
             birthday = contacts_file.readline().rstrip("\n")
 
             # Create object and set name and birthday element
-            contact = lab5_class_Walker.Contact()
+            contact = lab5_class.Contact()
             contact.set_name(name)
             contact.set_birthdate(birthday)
 
